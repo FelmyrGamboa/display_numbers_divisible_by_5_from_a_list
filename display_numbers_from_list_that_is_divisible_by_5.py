@@ -9,4 +9,10 @@
 # 20
 # 55
 
+#Give the list
 
+#Create a for loop of the list
+
+#Create a condition that will pick numbers that is divisible by 5
+
+#Print the result
